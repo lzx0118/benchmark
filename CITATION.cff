@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use X-Bench, please cite the accompanying paper."
+title: "X-Bench"
+authors:
+  - family-names: "Anonymous"
+    given-names: "Author"
+version: "1.0.0"
+date-released: "2026-01-03"
