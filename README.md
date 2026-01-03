@@ -63,15 +63,15 @@ Domains correspond to:
 
 Checkmarks indicate which source datasets are included for each language subset.
 
-| {" | ".join(comp_header)} |
-|{"|".join(["---"]*len(comp_header))}|
-| hu | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ |  | 1186 |
-| ms | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |  | 1075 |
-| ur | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |  | 841 |
-| bn | ✓ | ✓ | ✓ | ✓ |  | ✓ |  |  |  | 892 |
-| fa |  | ✓ | ✓ | ✓ |  | ✓ |  |  | ✓ | 911 |
-| id | ✓ | ✓ | ✓ | ✓ |  | ✓ |  |  |  | 1155 |
-| **Total** |  |  |  |  |  |  |  |  |  | **6060** |
+| Lang | OpenSubs | TED2020 | QED | Tanzil | Wikimedia | WikiMatrix | Europarl | WMT-News | TEP | Size |
+|------|----------|---------|-----|--------|----------|-----------|---------|----------|-----|------|
+| hu   | ✓        | ✓       | ✓   |        |          | ✓         | ✓       | ✓        |     | 1186 |
+| ms   | ✓        | ✓       | ✓   | ✓      | ✓        |           |         |          |     | 1075 |
+| ur   | ✓        | ✓       | ✓   | ✓      | ✓        |           |         |          |     | 841  |
+| bn   | ✓        | ✓       | ✓   | ✓      |          | ✓         |         |          |     | 892  |
+| fa   |          | ✓       | ✓   | ✓      |          | ✓         |         |          | ✓   | 911  |
+| id   | ✓        | ✓       | ✓   | ✓      |          | ✓         |         |          |     | 1155 |
+| **Total** |    |         |     |        |          |           |         |          |     | **6060** |
 
 ---
 
